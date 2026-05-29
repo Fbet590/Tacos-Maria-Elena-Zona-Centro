@@ -213,7 +213,7 @@ export function Menu() {
                       </Button>
                     </Link>
                     <Link
-                      href="https://wa.me/523332433444?text=Hola%2C%20me%20gustar%C3%ADa%20hacer%20un%20pedido"
+                      href={`https://wa.me/52${location.phone.replace(/\D/g, "")}?text=Hola%2C%20me%20gustar%C3%ADa%20hacer%20un%20pedido`}
                       target="_blank"
                       className="w-full"
                     >
