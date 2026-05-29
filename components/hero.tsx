@@ -54,7 +54,7 @@ export function Hero() {
           />
         </div>
         <Link 
-          href="https://wa.me/523332433444?text=Hola%2C%20me%20gustar%C3%ADa%20hacer%20un%20pedido"
+          href="https://wa.me/5213332433444?text=Hola%2C%20me%20gustar%C3%ADa%20hacer%20un%20pedido"
           target="_blank"
         >
           {/* Button 25% smaller: px-6 py-4 text-sm (was px-8 py-6 text-lg) */}
