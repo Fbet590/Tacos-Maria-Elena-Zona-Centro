@@ -85,7 +85,7 @@ export function Footer() {
                 <h3 className="font-serif text-2xl mb-6">CONECTATE</h3>
                 <div className="flex gap-4 mb-8">
                   <Link 
-                    href="https://www.facebook.com/tacosmariaelenaprovidencia" 
+                    href="https://www.facebook.com/tacosmariaelenacentro" 
                     target="_blank"
                     className="p-3 bg-secondary-foreground/10 rounded-full hover:bg-primary hover:text-primary-foreground transition-colors"
                     aria-label="Facebook"
@@ -93,7 +93,7 @@ export function Footer() {
                     <Facebook className="w-5 h-5" />
                   </Link>
                   <Link 
-                    href="https://www.instagram.com/tacosmariaelena_provi?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" 
+                    href="https://www.instagram.com/tacosmariaelenacentro?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" 
                     target="_blank"
                     className="p-3 bg-secondary-foreground/10 rounded-full hover:bg-primary hover:text-primary-foreground transition-colors"
                     aria-label="Instagram"
