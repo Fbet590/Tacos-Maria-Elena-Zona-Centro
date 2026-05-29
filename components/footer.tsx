@@ -57,9 +57,9 @@ export function Footer() {
               {/* Hours */}
               <div>
                 <h3 className="font-serif text-2xl mb-6">HORARIO</h3>
-                <p className="mb-2">Lunes - Sabado: 9:30AM - 3PM</p>
+                <p className="mb-2">Lunes - Sabado: 9AM - 3PM</p>
                 <p className="mb-6">Domingo: CERRADO</p>
-                <p className="text-primary font-bold text-lg">LLAMANOS HOY: (33) 2182-1037</p>
+                <p className="text-primary font-bold text-lg">LLAMANOS HOY: (33) 3324-3444</p>
                 <p className="text-sm text-secondary-foreground/80 mt-4 max-w-sm">
                   En Maria Elena, nos dedicamos a servir a nuestros clientes con el mas autentico sabor mexicano. 
                   Nos esforzamos por crear relaciones duraderas con las familias que nos visitan.
