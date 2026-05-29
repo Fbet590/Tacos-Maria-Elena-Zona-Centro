@@ -5,7 +5,7 @@ import Link from "next/link"
 export function FloatingButton() {
   return (
     <Link
-      href="https://wa.me/523321821037?text=Hola%2C%20me%20gustar%C3%ADa%20hacer%20un%20pedido"
+      href="https://wa.me/523332433444?text=Hola%2C%20me%20gustar%C3%ADa%20hacer%20un%20pedido"
       target="_blank"
       className="fixed bottom-6 right-6 z-50 flex items-center gap-2 bg-[#25D366] text-white px-6 py-4 rounded-full shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105 hover:bg-[#128C7E] font-semibold"
     >
